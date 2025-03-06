@@ -1,0 +1,9 @@
+项目之前是在编程软件Eclipse上做的，Java:JDK 8
+
+相关的教程，可以参考:
+https://www.bilibili.com/video/BV1AJ411A7rP/?spm_id_from=333.999.0.0
+后期改的所有东西都是在这个教程基础上做的，这个视频就一个多小时，有疑问可以先看教程
+
+如果不会使用Eclipse，就在csdn上找一下软件的使用教程吧，或者直接运行jar包
+运行jar包时需要先切换到jar包所在的目录，然后再敲命令哈~
+
